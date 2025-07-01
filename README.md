@@ -1,4 +1,4 @@
-# 📝 TaskMate
+TaskManager
 
 A simple and elegant Flutter to-do list mobile app that helps you manage daily tasks efficiently. Designed with a clean dark UI and powered by `Provider` for state management, `TaskMate` stores your tasks locally using `shared_preferences`.
 
