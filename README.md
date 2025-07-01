@@ -4,7 +4,7 @@ A simple and elegant Flutter to-do list mobile app that helps you manage daily t
 
 Screenshots
 
-<img src="screenshots/taskmate_demo_1.png" width="300"> | <img src="screenshots/taskmate_demo_2.png" width="300">
+<img src="lib/screenshots/taskmate_demo_1.png" width="300">      <img src="lib/screenshots/taskmate_demo_2.png" width="300">
 
 ---
 
