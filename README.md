@@ -1,16 +1,26 @@
-# taskmate
+# 📝 TaskMate
 
-A new Flutter project.
+A simple and elegant Flutter to-do list mobile app that helps you manage daily tasks efficiently. Designed with a clean dark UI and powered by `Provider` for state management, `TaskMate` stores your tasks locally using `shared_preferences`.
 
-## Getting Started
+Screenshots
 
-This project is a starting point for a Flutter application.
+<img src="screenshots/taskmate_demo_1.png" width="300"> | <img src="screenshots/taskmate_demo_2.png" width="300">
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Features
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Add new tasks
+- Toggle tasks as completed/incomplete
+- Delete tasks
+- Tasks saved locally (persistent storage)
+- Responsive, dark-themed UI
+- Built using Provider for state management
+
+Tech Stack
+
+- **Flutter**
+- **Dart**
+- `Provider` (state management)
+- `Shared Preferences` (local storage)
+
